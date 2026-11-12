@@ -1,0 +1,6 @@
+{
+  "appId": "eg.gov.qena.adsmap",
+  "appName": "الخريطة الإعلانية",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
